@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Gerador de QRCode" src="./.github/preview.png" width="100%">
+  <img alt="Gerador de QRCode" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
